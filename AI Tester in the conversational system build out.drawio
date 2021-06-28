@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T10:50:50.536Z" agent="5.0 (Windows)" etag="04KV6DAWpzjKQaiS52x6" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T10:52:32.596Z" agent="5.0 (Windows)" etag="j0jcmK2qx9RMHdRAQliz" version="14.8.1" type="github">
   <diagram id="sMsKmZ36dMdmEoiFjQbl" name="Page-1">
     <mxGraphModel dx="1865" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,12 +123,6 @@
         </mxCell>
         <mxCell id="yppVhn_TZPLiQ2y8EMe6-32" value="Current Test Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="500" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="yppVhn_TZPLiQ2y8EMe6-33" value="Extending Existing virtual Assistant solutions&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="630" width="260" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="yppVhn_TZPLiQ2y8EMe6-37" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="390" y="710" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="61uGcUXwKeX0_CccamnW-10" value="Business Analysts, &lt;br&gt;Solution Architect and &lt;br&gt;Conversational Analysts" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-10" y="70" width="30" height="60" as="geometry" />
