@@ -1,1 +1,125 @@
-<mxfile host="Electron" modified="2021-06-17T10:28:23.819Z" agent="5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36" etag="D7MLWuGD8Pa3X5v5i-Qo" version="14.6.13" type="device"><diagram id="sMsKmZ36dMdmEoiFjQbl" name="Page-1">7Vpbc+I2FP41zPRlM9gGQx65bbszyTSdZLeXl46wFVtFllxJTnB/fY9sYbAEYbcDmOz0BaSDrt/5dC4SvWCWrX8UKE/veYxpz+/H614w7/m+541D+NKSspYMb71akAgSm0ZbwSP5Bxth30gLEmPZaqg4p4rkbWHEGcORasmQEPy13eyZ0/asOUqwI3iMEHWlv5JYpbV07I+28p8wSdLNzF54W/+SoU1jsxOZopi/7oiCRS+YCc5VXcrWM0w1eBtc6n4fD/zaLExgpr6mQ5nnX1L259MfD3fkF78cL+5x+ME3q31BtDA7NqtV5QYCwQsWYz1KvxdMX1Oi8GOOIv3rKygdZKnKKNQ8KJrhsFB4fXChXrN94A3mGVaihCamgx8YxAxlgqGpv24VMNjI0h3wx0aGjM6TZugtLFAwyHwLSg4mOAaWmCoXKuUJZ4guttJpG7VtmzvOc4PVX1ip0lAeFYrvQ1JP9DaOsC5eiAi/sf4DeAtMkSIv7fH3gWe6PnACMzd6GnhtPXmBhb9CIsHK9LJU0Czjv2vFc6g7x5IkTJuIlLAVYYkmDRcrmZLcUSGcx1wXc8EjLOVxai9RtEoqtf5cKEoYPh3lvaEFZd+lvOfvoXx4Lsp7t11wHuAS5W+6/81wU/3dDFdV5utWrTS1E56VwDiZirtvtBuf4kxNhEDlToNcnxX5xpEbt3ni9y2bb7Uf9t9sD4V6BSc9l3543ebyqGpH5zGXlu48++zW1HTM5bk5Eg664MjoujlyMjMRvgczEYw6oEDguO9PTOFqXzBg/7NSWDDMwDcfdN0xj4qsUt1R311T5255wjh14LdRu/1Kn322MHXgIDrjDLYogWqc/a3THwoZSNfxvWezc098f9lgJ3SAg+OBkwq2al2wLEhhYWypMMr0EnKXlZfGMfCuDceRg+OkUClsh0QGy44hG14d9cYOZJ8lFroXMFA8AxY3naM2sCOEzlHz3Nxv8gnqTxgOqDjoL4qMTiLFBcCiAQFW0ju0xPSBS1LxM5gvuVI822kwoTqlDOaKW8DyOgmcNRdP/ROZRwvtYOCiHVwUbN/lKCM6fFAAd5Vld+1RLEvYxD/dEdSNbmQJ3Mx2Uet/6FUXl42LRjBuiDINEFvKvALnOnx2E9xcD8Ku034Ag+ngSzmK9fxMf+bQgguURQxD7QeBZc6Z1GVFMtw5ymFwdSi7Lv3zuoEzxi8kwldkCAajawPQd43nI6eFiSyXBaEaSPAlcPKpTmSW4L7CRJemE1e20xeJSOMZ7ek5s2xKfwJfYH6k2/R9+0pL3c2VSleu0nfN/uwJPvtZ/TBmG/eurbp17Rzswe/Cx8XNYe95tLL85BXkXrfDa0Nu6CA3RwoZL1jxD6b82DlyQzu87R65sQPKJZ461kSZlw5wsnW9euq4GYeBqW9fO3Sl3KlAqAMBi851zvMAcvrbbyuA9OxbsAO3385A/qFk9Mir47ffofrteY7coTrrusgdqpsHTwsJnlbKitBohVNOY7Cb79zPW1etXtc5ceCGdbNCVNupbyH0pBGcF8BwzwU2IKHayEkl+AqAo1oTc8b16/L0mVBqiZCBPsKsOv2OTjISx5WF2mfK21brFH6wrZfhnnfrwR69+GfTixuALdYKs7hOCBdrsskNX4hQRR0cSwlSVKlOmvhaHo3VvhsVWnaryUF3VNico8vo0M3spzpPqvX25X+9bRxfS2+jztXmXhU8aay/WwUEVkgz8s5m/KC6/aNgHTxs/24ZLP4F</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-28T10:35:36.272Z" agent="5.0 (Windows)" etag="hBx4b0_cDKMjWg2GpSCw" version="14.8.1" type="github">
+  <diagram id="sMsKmZ36dMdmEoiFjQbl" name="Page-1">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="61uGcUXwKeX0_CccamnW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yppVhn_TZPLiQ2y8EMe6-29" target="yppVhn_TZPLiQ2y8EMe6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="350" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yppVhn_TZPLiQ2y8EMe6-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-1" value="Design thinking workship" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yppVhn_TZPLiQ2y8EMe6-3" target="yppVhn_TZPLiQ2y8EMe6-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="200" />
+              <mxPoint x="500" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="yppVhn_TZPLiQ2y8EMe6-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="200" />
+              <mxPoint x="640" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yppVhn_TZPLiQ2y8EMe6-3" target="yppVhn_TZPLiQ2y8EMe6-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="200" />
+              <mxPoint x="370" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-3" value="Intents, Utterences" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-4" value="Conversation flow" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-6" value="Integration with upstream applications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-7" value="Authentication" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-8" value="User interface." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-11" value="AI Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61uGcUXwKeX0_CccamnW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yppVhn_TZPLiQ2y8EMe6-12" target="yppVhn_TZPLiQ2y8EMe6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-12" value="Unit testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="110" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61uGcUXwKeX0_CccamnW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yppVhn_TZPLiQ2y8EMe6-13" target="yppVhn_TZPLiQ2y8EMe6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-13" value="System Testing - Conversational&amp;nbsp; Flow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-16" value="Performance testing - Load and performance (response time)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="630" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="61uGcUXwKeX0_CccamnW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yppVhn_TZPLiQ2y8EMe6-17" target="yppVhn_TZPLiQ2y8EMe6-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-17" value="UX and Device Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-22" value="Solution build out&lt;br&gt;BA&lt;br&gt;Solution architect&lt;br&gt;Conversational Analysts&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-23" value="CTD model&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-24" value="Mock conversations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-25" value="Data - models?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.517;exitY=0.863;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yppVhn_TZPLiQ2y8EMe6-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="180" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="482" y="200" />
+              <mxPoint x="240" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-31" value="Business stakeholders" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-32" value="Current Test activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-33" value="Extending Existing virtual Assistant solutions&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="630" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-36" value="Building Virtual Assistant solutions&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="25" y="70" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yppVhn_TZPLiQ2y8EMe6-37" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
