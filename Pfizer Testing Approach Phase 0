@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T05:21:21.124Z" agent="5.0 (Windows)" etag="ieyta8gDr3uJROmzv--6" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T05:46:13.007Z" agent="5.0 (Windows)" etag="YRjLLFhCnR0v4eB1lbdV" version="14.8.3" type="github">
   <diagram id="bQb8yxvCMN_H1T_BIotb" name="Page-1">
     <mxGraphModel dx="1865" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,6 +306,21 @@
         </mxCell>
         <mxCell id="5PF2BU6ORLBRoOF8jFjp-104" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=11.5;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1534.5" y="600" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-105" value="IGNITE Quality Platform Tools" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11.5;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="230" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-106" value="Test Optimization for Automated Test Case Generation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11.5;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="353.5" width="110" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-107" value="OTFA for Automated API Testing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11.5;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="353.5" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-108" value="Data Assessment Tool Kit for Document Profiling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11.5;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="405" width="110" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-109" value="Custom solution for Sentence Similarity Assessment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11.5;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="402" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
