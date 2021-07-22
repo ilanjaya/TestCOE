@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T04:57:02.158Z" agent="5.0 (Windows)" etag="YBNZKWL_Mi7PLb3MqvWp" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T05:18:47.860Z" agent="5.0 (Windows)" etag="ukzWWrvuD3wsHeCREhFa" version="14.8.3" type="github">
   <diagram id="bQb8yxvCMN_H1T_BIotb" name="Page-1">
     <mxGraphModel dx="1865" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,20 +265,41 @@
         <mxCell id="5PF2BU6ORLBRoOF8jFjp-78" value="QRD Template based &#xa;Transformed Sentence and &#xa;Section Mapping" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5PF2BU6ORLBRoOF8jFjp-75">
           <mxGeometry y="120" width="174.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5PF2BU6ORLBRoOF8jFjp-79" value="Testing Technique" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="490" width="174.5" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="5PF2BU6ORLBRoOF8jFjp-80" value="Automation Insights for Manual &#xa;Verification" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5PF2BU6ORLBRoOF8jFjp-79">
-          <mxGeometry y="26" width="174.5" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="5PF2BU6ORLBRoOF8jFjp-81" value="Data Assessment " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5PF2BU6ORLBRoOF8jFjp-79">
-          <mxGeometry y="60" width="174.5" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="5PF2BU6ORLBRoOF8jFjp-84" value="API Verification" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="576" width="174.5" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="5PF2BU6ORLBRoOF8jFjp-85" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
           <mxGeometry x="291.54" y="422" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-89" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="492" y="402" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-90" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="713.4100000000001" y="402" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-91" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="900" y="458" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-92" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="429" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-93" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="432" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-94" value="Verifications" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="490" width="174.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-95" value="Automation Insights for Manual &#xa;Verification" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5PF2BU6ORLBRoOF8jFjp-94">
+          <mxGeometry y="26" width="174.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-96" value="Data Profiling and assessment&#xa;Insights" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5PF2BU6ORLBRoOF8jFjp-94">
+          <mxGeometry y="60" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-97" value="Manual Validation of Data &#xa;Profiling and Similarity Score" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5PF2BU6ORLBRoOF8jFjp-94">
+          <mxGeometry y="100" width="174.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-99" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="1534.5" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5PF2BU6ORLBRoOF8jFjp-100" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;fontSize=11.5;" vertex="1" parent="1">
+          <mxGeometry x="1534.5" y="560" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
