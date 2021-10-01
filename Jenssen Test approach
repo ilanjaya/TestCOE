@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T05:38:54.852Z" agent="5.0 (Windows)" etag="MiW9K0u7XnzLaQsMqLWl" version="15.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-01T05:55:41.904Z" agent="5.0 (Windows)" etag="d2ejxcez9_frOtfVoNVx" version="15.3.8" type="github" pages="5">
   <diagram id="TgmES6FXOv0K_g1SixBG" name="Arch (1-3)">
     <mxGraphModel dx="2076" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1134,8 +1134,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1134" y="1200" />
-              <mxPoint x="1520" y="1200" />
-              <mxPoint x="1520" y="1357" />
+              <mxPoint x="1530" y="1200" />
             </Array>
             <mxPoint x="1530" y="1357" as="targetPoint" />
           </mxGeometry>
@@ -1176,26 +1175,26 @@
             <mxPoint x="1130" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-0" value="&lt;div&gt;Test Data Profiling and Quality Assessment&lt;/div&gt;&lt;div&gt;DART - Dev Environment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="80" y="1360" width="160" height="80" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-0" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Data Profiling and Quality Assessment&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;DART - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="80" y="1360" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-1" value="&lt;div&gt;Test Case Optimization with 100% Test Coverage &lt;br&gt;&lt;/div&gt;&lt;div&gt;CTD - Dev Environment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="341" y="1360" width="179" height="80" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Case Optimization with 100% Test Coverage &lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;CTD - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="341" y="1360" width="179" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-2" value="&lt;div&gt;Test Data Generation - Utterance Variations&lt;br&gt;&lt;/div&gt;&lt;div&gt;LAMBADA - Dev Environment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="652.5" y="1360" width="179" height="80" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Data Generation - Utterance Variations&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;LAMBADA - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="652.5" y="1360" width="179" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-4" value="&lt;div&gt;Sensitivity and Adversarial Robustness Assessment of Virtual Assistant and CI Engine&lt;br&gt;&lt;/div&gt;&lt;div&gt;VerifAI- Dev Environment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="960" y="1357.24" width="179" height="80" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Sensitivity and Adversarial Robustness Assessment of Virtual Assistant and CI Engine&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;VerifAI- Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="960" y="1357.24" width="179" height="102.76" as="geometry" />
         </mxCell>
         <mxCell id="HlruWhn8vAP4lE4hG5Fl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2PO7mbCv7J-1kH4tGTWo-1" source="HlruWhn8vAP4lE4hG5Fl-5" target="HlruWhn8vAP4lE4hG5Fl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-5" value="&lt;div&gt;Scriptless Test Execution Automation - User Interface and API End Point Verification&lt;br&gt;&lt;/div&gt;&lt;div&gt;HP UFT - Dev Environment&lt;/div&gt;&lt;div&gt;HP UFT - FST Environment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="1321.13" y="1360" width="238.87" height="80" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-5" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Scriptless Test Execution Automation - User Interface and API End Point Verification&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;HP UFT - Dev Environment&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;HP UFT - FST Environment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="1321.13" y="1360" width="238.87" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-6" value="&lt;div&gt;Test Results and Defect Reporting &lt;br&gt;&lt;/div&gt;&lt;div&gt;IGNITE Quality Platform - Dev Environment&lt;br&gt;&lt;/div&gt;&lt;div&gt;HP ALM - FST Environment&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="1640" y="1360" width="200" height="80" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Results and Defect Reporting &lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;IGNITE Quality Platform - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;HP ALM - FST Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="1640" y="1360" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
