@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T05:55:41.904Z" agent="5.0 (Windows)" etag="d2ejxcez9_frOtfVoNVx" version="15.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-01T06:02:10.482Z" agent="5.0 (Windows)" etag="WnCMaQ5G6qm4Y33EE9Sc" version="15.3.8" type="github" pages="5">
   <diagram id="TgmES6FXOv0K_g1SixBG" name="Arch (1-3)">
     <mxGraphModel dx="2076" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -678,7 +678,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Phase 2" id="Z1rCASXQmTkxKFBdedZ_">
-    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="2PO7mbCv7J-1kH4tGTWo-0" />
         <mxCell id="2PO7mbCv7J-1kH4tGTWo-1" parent="2PO7mbCv7J-1kH4tGTWo-0" />
@@ -1003,7 +1003,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="194" y="1320" />
-              <mxPoint x="120" y="1320" />
+              <mxPoint x="90" y="1320" />
             </Array>
             <mxPoint x="127.99000000000001" y="1360" as="targetPoint" />
           </mxGeometry>
@@ -1012,7 +1012,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="194" y="1320" />
-              <mxPoint x="386" y="1320" />
+              <mxPoint x="378" y="1320" />
             </Array>
             <mxPoint x="410.75" y="1360" as="targetPoint" />
           </mxGeometry>
@@ -1054,7 +1054,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1280" />
-              <mxPoint x="431" y="1280" />
+              <mxPoint x="435" y="1280" />
             </Array>
             <mxPoint x="460.5" y="1360" as="targetPoint" />
           </mxGeometry>
@@ -1072,7 +1072,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1280" />
-              <mxPoint x="742" y="1280" />
+              <mxPoint x="740" y="1280" />
             </Array>
             <mxPoint x="740" y="1360" as="targetPoint" />
           </mxGeometry>
@@ -1081,7 +1081,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="531" y="1280" />
-              <mxPoint x="1005" y="1280" />
+              <mxPoint x="1018" y="1280" />
             </Array>
             <mxPoint x="992.25" y="1360" as="targetPoint" />
           </mxGeometry>
@@ -1101,7 +1101,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="791" y="1240" />
-              <mxPoint x="475" y="1240" />
+              <mxPoint x="493" y="1240" />
             </Array>
             <mxPoint x="510.25" y="1360" as="targetPoint" />
           </mxGeometry>
@@ -1121,11 +1121,11 @@
         <mxCell id="udwzO2usJWz9pRY_tz4A-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#CCCC00;fillColor=#e3c800;" parent="2PO7mbCv7J-1kH4tGTWo-1" source="udwzO2usJWz9pRY_tz4A-4" target="2PO7mbCv7J-1kH4tGTWo-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="udwzO2usJWz9pRY_tz4A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.877;entryY=-0.037;entryDx=0;entryDy=0;strokeColor=#FFFF00;entryPerimeter=0;" parent="2PO7mbCv7J-1kH4tGTWo-1" source="udwzO2usJWz9pRY_tz4A-4" target="HlruWhn8vAP4lE4hG5Fl-1" edge="1">
+        <mxCell id="udwzO2usJWz9pRY_tz4A-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.878;entryY=0.023;entryDx=0;entryDy=0;strokeColor=#FFFF00;entryPerimeter=0;" parent="2PO7mbCv7J-1kH4tGTWo-1" source="udwzO2usJWz9pRY_tz4A-4" target="HlruWhn8vAP4lE4hG5Fl-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1134" y="1200" />
-              <mxPoint x="498" y="1200" />
+              <mxPoint x="522" y="1200" />
             </Array>
             <mxPoint x="545.075" y="1356.03241" as="targetPoint" />
           </mxGeometry>
@@ -1139,12 +1139,12 @@
             <mxPoint x="1530" y="1357" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udwzO2usJWz9pRY_tz4A-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFF00;" parent="2PO7mbCv7J-1kH4tGTWo-1" source="udwzO2usJWz9pRY_tz4A-4" target="HlruWhn8vAP4lE4hG5Fl-4" edge="1">
+        <mxCell id="udwzO2usJWz9pRY_tz4A-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFF00;" parent="2PO7mbCv7J-1kH4tGTWo-1" source="udwzO2usJWz9pRY_tz4A-4" target="HlruWhn8vAP4lE4hG5Fl-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1130.75" y="1360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1134" y="1200" />
-              <mxPoint x="1094" y="1200" />
+              <mxPoint x="1075" y="1200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1175,26 +1175,26 @@
             <mxPoint x="1130" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-0" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Data Profiling and Quality Assessment&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;DART - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="80" y="1360" width="160" height="100" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-0" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Test Data Profiling and Quality Assessment&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;DART - Dev Environment&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=17;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="40" y="1360" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Case Optimization with 100% Test Coverage &lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;CTD - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="341" y="1360" width="179" height="100" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-1" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Test Case Optimization with 100% Test Coverage &lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;CTD - Dev Environment&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=17;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="320" y="1360" width="230" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Data Generation - Utterance Variations&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;LAMBADA - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="652.5" y="1360" width="179" height="100" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-2" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Test Data Generation - Utterance Variations&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;LAMBADA - Dev Environment&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=17;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="640" y="1360" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Sensitivity and Adversarial Robustness Assessment of Virtual Assistant and CI Engine&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;VerifAI- Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="960" y="1357.24" width="179" height="102.76" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-4" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Sensitivity and Adversarial Robustness Assessment of Virtual Assistant and CI Engine&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;VerifAI- Dev Environment&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=17;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="960" y="1357.24" width="230" height="122.76" as="geometry" />
         </mxCell>
         <mxCell id="HlruWhn8vAP4lE4hG5Fl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2PO7mbCv7J-1kH4tGTWo-1" source="HlruWhn8vAP4lE4hG5Fl-5" target="HlruWhn8vAP4lE4hG5Fl-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-5" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Scriptless Test Execution Automation - User Interface and API End Point Verification&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;HP UFT - Dev Environment&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;HP UFT - FST Environment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="1321.13" y="1360" width="238.87" height="100" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-5" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Scriptless Test Execution Automation - User Interface and API End Point Verification&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;HP UFT - Dev Environment&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;HP UFT - FST Environment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=17;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="1321.13" y="1360" width="238.87" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="HlruWhn8vAP4lE4hG5Fl-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Test Results and Defect Reporting &lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;IGNITE Quality Platform - Dev Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;HP ALM - FST Environment&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=14;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
-          <mxGeometry x="1640" y="1360" width="200" height="100" as="geometry" />
+        <mxCell id="HlruWhn8vAP4lE4hG5Fl-6" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Test Results and Defect Reporting &lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;IGNITE Quality Platform - Dev Environment&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;HP ALM - FST Environment&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontSize=17;" vertex="1" parent="2PO7mbCv7J-1kH4tGTWo-1">
+          <mxGeometry x="1640" y="1360" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
