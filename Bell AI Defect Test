@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T10:16:09.798Z" agent="5.0 (Windows)" etag="Md9QdDvi6WVuS8p4J-RU" version="15.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-28T10:18:31.628Z" agent="5.0 (Windows)" etag="QqH2XLNq0HjWyLP7Tupg" version="15.4.0" type="github" pages="3">
   <diagram id="YLOzh8wfCI6atvfxOy0n" name="Generic Workflow">
     <mxGraphModel dx="1888" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -723,14 +723,8 @@
         <mxCell id="KYDLjs25tdtLf3Jn2cOz-28" value="Generate Test Scripts" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KYDLjs25tdtLf3Jn2cOz-1" vertex="1">
           <mxGeometry x="200" y="480" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-mx_saBqC7fqY3SMSPGU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="KYDLjs25tdtLf3Jn2cOz-1" source="KYDLjs25tdtLf3Jn2cOz-29" target="-mx_saBqC7fqY3SMSPGU-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="656" y="600" />
-              <mxPoint x="400" y="600" />
-              <mxPoint x="400" y="661" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="V5sedBGKjsmeHvo8-vLF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KYDLjs25tdtLf3Jn2cOz-1" source="KYDLjs25tdtLf3Jn2cOz-29" target="-mx_saBqC7fqY3SMSPGU-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KYDLjs25tdtLf3Jn2cOz-29" value="Execute Test Cases" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KYDLjs25tdtLf3Jn2cOz-1" vertex="1">
           <mxGeometry x="602.5" y="480" width="107.5" height="80" as="geometry" />
@@ -814,24 +808,24 @@
             <mxPoint x="-44" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-mx_saBqC7fqY3SMSPGU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" parent="KYDLjs25tdtLf3Jn2cOz-1" source="-mx_saBqC7fqY3SMSPGU-38" target="-mx_saBqC7fqY3SMSPGU-43" edge="1">
+        <mxCell id="V5sedBGKjsmeHvo8-vLF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KYDLjs25tdtLf3Jn2cOz-1" source="-mx_saBqC7fqY3SMSPGU-38" target="-mx_saBqC7fqY3SMSPGU-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-mx_saBqC7fqY3SMSPGU-38" value="Test Executions Reports" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KYDLjs25tdtLf3Jn2cOz-1" vertex="1">
-          <mxGeometry x="220" y="650" width="162" height="40" as="geometry" />
+          <mxGeometry x="790" y="500" width="162" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-mx_saBqC7fqY3SMSPGU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="KYDLjs25tdtLf3Jn2cOz-1" source="-mx_saBqC7fqY3SMSPGU-43" target="-mx_saBqC7fqY3SMSPGU-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="516" y="750" />
+              <mxPoint x="1076" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-mx_saBqC7fqY3SMSPGU-43" value="Evaluate Test Results" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="KYDLjs25tdtLf3Jn2cOz-1" vertex="1">
-          <mxGeometry x="462.5" y="610" width="107.5" height="80" as="geometry" />
+          <mxGeometry x="1022.5" y="480" width="107.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-mx_saBqC7fqY3SMSPGU-44" value="Under-performing Data Combinations Report" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KYDLjs25tdtLf3Jn2cOz-1" vertex="1">
-          <mxGeometry x="220" y="730" width="162" height="40" as="geometry" />
+          <mxGeometry x="780" y="600" width="162" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
