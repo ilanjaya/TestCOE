@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:27:27.119Z" agent="5.0 (Macintosh)" etag="BKuIElPcHjNwPj_b4WGZ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:32:23.560Z" agent="5.0 (Macintosh)" etag="HpncQmXYiUzdpfH2Fj9B" version="17.4.5" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1796" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -73,10 +73,10 @@
         <mxCell id="moCQGtxOclJBB0WCNCtC-13" value="Fix Defects" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="150" y="270" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="moCQGtxOclJBB0WCNCtC-14" value="Data Scientists (Testing)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="moCQGtxOclJBB0WCNCtC-14" value="Data Scientists (Testing)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-590" y="400" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="moCQGtxOclJBB0WCNCtC-17" value="AI Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="moCQGtxOclJBB0WCNCtC-17" value="AI Tester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-590" y="520" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HceoHQ-MukzPSJVe2h53-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="moCQGtxOclJBB0WCNCtC-18" target="moCQGtxOclJBB0WCNCtC-19">
