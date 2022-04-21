@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T06:25:51.166Z" agent="5.0 (Macintosh)" etag="KUM6Dk6g2CUUz2fV97JK" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T06:27:27.119Z" agent="5.0 (Macintosh)" etag="BKuIElPcHjNwPj_b4WGZ" version="17.4.5" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
     <mxGraphModel dx="1796" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="-90" y="400" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="moCQGtxOclJBB0WCNCtC-22" value="&lt;h1&gt;&lt;div style=&quot;font-weight: 400 ; margin-top: 8pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(89 , 89 , 89) ; font-family: &amp;#34;book antiqua&amp;#34;&quot;&gt;-Understanding business objectives&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(89 , 89 , 89) ; font-family: &amp;#34;book antiqua&amp;#34;&quot;&gt;-Requirements analysis&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-480" y="70" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="moCQGtxOclJBB0WCNCtC-23" value="&lt;h1&gt;&lt;div style=&quot;font-weight: 400 ; margin-top: 8pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal ; font-size: 12px&quot;&gt;&lt;div style=&quot;margin-top: 8pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;book antiqua&amp;#34; ; color: rgb(89 , 89 , 89)&quot;&gt;Understanding the business inputs/data through data visualization&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top: 8pt ; margin-bottom: 0pt ; margin-left: 0in ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span&gt;-&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;book antiqua&amp;#34; ; color: rgb(89 , 89 , 89)&quot;&gt;Understanding the relationship between input data and expected output (Feature Engineering)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-280" y="-10" width="120" height="150" as="geometry" />
