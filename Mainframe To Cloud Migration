@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T06:41:13.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="xNc-ONciH_wTvxuE3Qyr" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T06:41:55.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="MF9oLyNi7PuDMNr65_5i" version="20.6.0" type="github">
   <diagram id="OM0IrNqEqAMPZpGWEgh5" name="Page-1">
     <mxGraphModel dx="1351" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,9 +242,6 @@
         </mxCell>
         <mxCell id="Bod9_50nBXHGGX0lfVxU-9" value="Common Process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1840" y="600" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Bod9_50nBXHGGX0lfVxU-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=1;glass=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
