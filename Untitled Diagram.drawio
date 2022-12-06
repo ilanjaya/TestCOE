@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T04:59:56.262Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.0" etag="aDBvuuqkE8BoKP0f2AJr" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T05:04:25.761Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.6.0" etag="cogcpvo7GBmBBUB9BNju" type="github">
   <diagram id="OM0IrNqEqAMPZpGWEgh5" name="Page-1">
     <mxGraphModel dx="1577" dy="2244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry x="1860" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-50" value="Baseline Input Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="706" y="40" width="60" height="80" as="geometry" />
+          <mxGeometry x="880" y="-50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sKHwCAjAp6CKXzJC5bC2-52" target="sKHwCAjAp6CKXzJC5bC2-46">
           <mxGeometry relative="1" as="geometry" />
@@ -157,23 +157,14 @@
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-56" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Side by side testing&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1225" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sKHwCAjAp6CKXzJC5bC2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sKHwCAjAp6CKXzJC5bC2-58" target="sKHwCAjAp6CKXzJC5bC2-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-58" value="Provision Pre-Modernization Test Environment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="-50" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-60" value="Provision Post-Modernization Test Environment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="770" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sKHwCAjAp6CKXzJC5bC2-61" value="Refresh Data in Post-Modernization Environment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="590" width="250" height="30" as="geometry" />
+          <mxGeometry x="300" y="540" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-62" value="In case of Test Results Failure/ Mismatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1840" y="420" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sKHwCAjAp6CKXzJC5bC2-63" value="Backup Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-69" value="Automate Test Cases in Source Environment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="706" y="200" width="154" height="60" as="geometry" />
@@ -181,8 +172,11 @@
         <mxCell id="sKHwCAjAp6CKXzJC5bC2-71" value="Automate Test Cases in Modernised&lt;br&gt;Application Environment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="706" y="310" width="154" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sKHwCAjAp6CKXzJC5bC2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.375;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="sKHwCAjAp6CKXzJC5bC2-4" target="sKHwCAjAp6CKXzJC5bC2-7">
+        <mxCell id="sKHwCAjAp6CKXzJC5bC2-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="sKHwCAjAp6CKXzJC5bC2-4" target="sKHwCAjAp6CKXzJC5bC2-71">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sKHwCAjAp6CKXzJC5bC2-77" value="Modernize data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="870" y="520" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
