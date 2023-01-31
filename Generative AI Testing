@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T08:17:00.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="zwgTPuiweRiIBuD6KdTr" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:28:03.962Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="SypnKNzAxaKQW4Sbc9Rp" version="20.8.13" type="github">
   <diagram name="Page-1" id="91Ecg5C1ysxdJBG8h54C">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,9 @@
         <mxCell id="B4zbFsJXpDN0b_0RhKF8-43" value="Structural Similarity Index" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="560" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="B4zbFsJXpDN0b_0RhKF8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="B4zbFsJXpDN0b_0RhKF8-44" target="B4zbFsJXpDN0b_0RhKF8-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B4zbFsJXpDN0b_0RhKF8-44" value="Peak Signal to Noise Ration" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="650" width="100" height="30" as="geometry" />
         </mxCell>
@@ -133,6 +136,9 @@
         </mxCell>
         <mxCell id="B4zbFsJXpDN0b_0RhKF8-52" value="Text" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="165" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B4zbFsJXpDN0b_0RhKF8-64" value="Audio" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="635" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
