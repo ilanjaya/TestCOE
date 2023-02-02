@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:01:35.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="ruNR9tNMBkkkKF_FdPYj" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T10:03:31.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="Q-wm7-G9i_h7tGUuCZ1h" version="20.8.14" type="github">
   <diagram name="Page-1" id="91Ecg5C1ysxdJBG8h54C">
     <mxGraphModel dx="954" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="B4zbFsJXpDN0b_0RhKF8-86" value="Text" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="639" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nZYH31ePqWZjjZ4HSI-w-1" value="Modalities Supported" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="593" y="-70" width="134" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
