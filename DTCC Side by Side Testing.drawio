@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T04:01:50.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="2R_RasLTEHdWL8idS-ii" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T05:26:18.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Fu2ihnRZ08fIwgHj1kNe" version="20.8.18" type="github">
   <diagram name="Page-1" id="lryW137A7_xecyd_qi0n">
     <mxGraphModel dx="2190" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,6 +137,14 @@
         <mxCell id="WqO82yuMAQhep9-diVYG-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WqO82yuMAQhep9-diVYG-53" target="WqO82yuMAQhep9-diVYG-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WqO82yuMAQhep9-diVYG-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WqO82yuMAQhep9-diVYG-53" target="WqO82yuMAQhep9-diVYG-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="240" />
+              <mxPoint x="1020" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WqO82yuMAQhep9-diVYG-53" value="Issues/Defects Found ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="190" width="110" height="100" as="geometry" />
         </mxCell>
@@ -147,7 +155,10 @@
           <mxGeometry x="960" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WqO82yuMAQhep9-diVYG-59" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="1010" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqO82yuMAQhep9-diVYG-61" value="Handover for Performance Testing" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="300" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
