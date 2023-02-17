@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T10:57:11.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="MV-c4e3q50vn1ykZPqux" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-17T11:04:15.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Z4HKKreLPA9CGKjC9DKd" version="20.8.20" type="github" pages="2">
   <diagram name="Page-1" id="IEcPaD-My5mOLeGgf-ty">
     <mxGraphModel dx="2099" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
         <mxCell id="fTEnaHrdsS7w_mW-GVzO-3" value="Audio Files&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="314" y="100" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MffKGVTW1rOlV_0wRZnS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-1" target="MffKGVTW1rOlV_0wRZnS-9">
+        <mxCell id="8q4FrQpBsTxWtQhLQ_4d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-1" target="8q4FrQpBsTxWtQhLQ_4d-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MffKGVTW1rOlV_0wRZnS-1" value="Speech Analysis Toolkit&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -293,6 +293,12 @@
         </mxCell>
         <mxCell id="MffKGVTW1rOlV_0wRZnS-9" value="Voice Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8q4FrQpBsTxWtQhLQ_4d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="8q4FrQpBsTxWtQhLQ_4d-2" target="MffKGVTW1rOlV_0wRZnS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8q4FrQpBsTxWtQhLQ_4d-2" value="Voice Agent Tester" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="110" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
