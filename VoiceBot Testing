@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T10:36:17.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="3yoffR8q0asChMjA0luM" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T10:56:09.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Lk2CaI1HCaF-4khnHjsU" version="20.8.20" type="github" pages="2">
   <diagram name="Page-1" id="IEcPaD-My5mOLeGgf-ty">
     <mxGraphModel dx="2099" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,77 @@
         </mxCell>
         <mxCell id="lCH0fQihM6WOkWY-enI2-88" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="580" width="34.95" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="k-Ap87TYpp322DHKcxj-" name="Page-2">
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fTEnaHrdsS7w_mW-GVzO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9P6PSVju444DHpYMefpN-1" target="fTEnaHrdsS7w_mW-GVzO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9P6PSVju444DHpYMefpN-1" value="Crowd Source" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="174" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9P6PSVju444DHpYMefpN-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="154" y="80" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9P6PSVju444DHpYMefpN-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="164" y="90" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fTEnaHrdsS7w_mW-GVzO-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="294" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fTEnaHrdsS7w_mW-GVzO-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="304" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTEnaHrdsS7w_mW-GVzO-1" target="MffKGVTW1rOlV_0wRZnS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTEnaHrdsS7w_mW-GVzO-3" value="Audio Files&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="314" y="100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-1" target="MffKGVTW1rOlV_0wRZnS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-1" target="MffKGVTW1rOlV_0wRZnS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-1" value="Speech Analysis Toolkit&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="75" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-2" value="Audio File Management/ Sequencing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-3" value="Voice Quality Evaluation (WER)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-4" target="MffKGVTW1rOlV_0wRZnS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-4" value="Speech to Text Conversion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-7" target="MffKGVTW1rOlV_0wRZnS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-7" value="Watson Assistant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-8" target="MffKGVTW1rOlV_0wRZnS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-8" value="Text to Speech Conversion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MffKGVTW1rOlV_0wRZnS-9" target="MffKGVTW1rOlV_0wRZnS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MffKGVTW1rOlV_0wRZnS-9" value="Voice Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
