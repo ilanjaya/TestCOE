@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T05:12:11.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="5aVvpY1d41YVFt8tvLU2" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T07:02:09.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="ExranJRsbmQTgWiu3oU9" version="20.8.20" type="github">
   <diagram name="Page-1" id="IEcPaD-My5mOLeGgf-ty">
     <mxGraphModel dx="1781" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,13 +26,13 @@
           <mxGeometry x="-20" y="130" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lCH0fQihM6WOkWY-enI2-9" value="Assess Data Quality&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="280" height="160" as="geometry" />
+          <mxGeometry x="290" y="120" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lCH0fQihM6WOkWY-enI2-10" value="Correctness &lt;br&gt;(Word Error Rate)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lCH0fQihM6WOkWY-enI2-11" value="Completeness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="170" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
