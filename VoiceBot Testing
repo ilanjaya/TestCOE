@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T11:06:14.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="2XC_yFnHRFG-nWzkKTX4" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-17T11:19:43.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="AJkrTw_DJrlq-0eaKkqf" version="20.8.20" type="github" pages="2">
   <diagram name="Page-1" id="IEcPaD-My5mOLeGgf-ty">
     <mxGraphModel dx="2099" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -317,6 +317,18 @@
         </mxCell>
         <mxCell id="8q4FrQpBsTxWtQhLQ_4d-10" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="695.48" y="400" width="34.52" height="40.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjEaqJitP4mAQjNZ3GO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ROjEaqJitP4mAQjNZ3GO-1" target="8q4FrQpBsTxWtQhLQ_4d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjEaqJitP4mAQjNZ3GO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="ROjEaqJitP4mAQjNZ3GO-1" target="MffKGVTW1rOlV_0wRZnS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjEaqJitP4mAQjNZ3GO-1" value="Test Execution Engine" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjEaqJitP4mAQjNZ3GO-2" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1065.48" y="179.5" width="34.52" height="40.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
