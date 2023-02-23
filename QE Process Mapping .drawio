@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T13:44:33.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="8f_l12Xa58gp11ilXfoP" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:46:32.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="G3sd3atmKO7fjVv3RqTF" version="20.8.22" type="github">
   <diagram name="Page-1" id="XkftuPTef9AWqIVJO75a">
     <mxGraphModel dx="1122" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,30 @@
         </mxCell>
         <mxCell id="diomu_ZPvpp-2AGHOQEY-3" value="Test Strategy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="diomu_ZPvpp-2AGHOQEY-4" target="diomu_ZPvpp-2AGHOQEY-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="diomu_ZPvpp-2AGHOQEY-4" value="Test Plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
@@ -162,20 +186,17 @@
         <mxCell id="diomu_ZPvpp-2AGHOQEY-52" value="Quality Gates" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="440" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="diomu_ZPvpp-2AGHOQEY-53" value="On-boarding Plan" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-53" value="Entry/ Exit Criteria" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="520" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="diomu_ZPvpp-2AGHOQEY-54" value="Deliverables" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-54" value="Types of Testing" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="600" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="diomu_ZPvpp-2AGHOQEY-55" value="Access/ Environment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-55" value="Target Test System" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="680" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="diomu_ZPvpp-2AGHOQEY-56" value="Training Plan" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="diomu_ZPvpp-2AGHOQEY-56" value="Deliverables" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="760" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="diomu_ZPvpp-2AGHOQEY-57" value="Defect Management" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="840" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
