@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T10:51:18.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="T1TNSWHTchXi0JFvRrGm" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-24T10:53:34.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="D2y_23TH7bpaMUoPmE2B" version="20.8.23" type="github" pages="2">
   <diagram name="Page-1" id="XkftuPTef9AWqIVJO75a">
     <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -470,6 +470,25 @@
         <mxCell id="1Ww7hU1ArQxljVXZ5SBA-18" value="Tooling" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="600" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="hZaRQ1o54YXqG1jAM8iY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Ww7hU1ArQxljVXZ5SBA-19" target="hZaRQ1o54YXqG1jAM8iY-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZaRQ1o54YXqG1jAM8iY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Ww7hU1ArQxljVXZ5SBA-19" target="hZaRQ1o54YXqG1jAM8iY-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="705" />
+              <mxPoint x="520" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZaRQ1o54YXqG1jAM8iY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Ww7hU1ArQxljVXZ5SBA-19" target="hZaRQ1o54YXqG1jAM8iY-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="705" />
+              <mxPoint x="520" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1Ww7hU1ArQxljVXZ5SBA-19" value="Cost" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="680" width="90" height="50" as="geometry" />
         </mxCell>
@@ -526,6 +545,15 @@
         </mxCell>
         <mxCell id="hZaRQ1o54YXqG1jAM8iY-27" value="Existing Tools" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hZaRQ1o54YXqG1jAM8iY-31" value="CAPEX Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="630" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hZaRQ1o54YXqG1jAM8iY-32" value="OPEX Cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="685" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hZaRQ1o54YXqG1jAM8iY-33" value="Fixed/T&amp;amp;M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="740" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
