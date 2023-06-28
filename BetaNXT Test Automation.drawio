@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T06:50:03.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="pArtbWno5SAVjDj44i8l" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:01:17.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="dCHpP3PR949Uu0R9NdNp" version="21.5.1" type="github">
   <diagram name="Page-1" id="NDKsp-IjWkwCeQxPeRXT">
     <mxGraphModel dx="1590" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -161,14 +161,19 @@
         <mxCell id="uRefnjCFfdxg6NVvjbrm-100" value="&lt;h1&gt;Testing - Needed in Current and Target State:&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;b&gt;&lt;u&gt;Unit testing&lt;/u&gt;&lt;/b&gt; focuses on generating zUnit test cases and execute the same on zOS.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;u&gt;Mainframe Testing&lt;/u&gt;&lt;/b&gt; focuses on automating the manual testing activities.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;u&gt;API Testing&lt;/u&gt;&lt;/b&gt; will focus on evaluating all the API end points between mainframe and cloud environments.&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;u&gt;End to End Workflow Integration testing&lt;/u&gt;&lt;/b&gt; will focus on testing the integration of all the components in the system for event driven scenario. This will include the communication flow from mainframes applications to cloud processes including the middleware components like KAFKA and Lambda processes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2064" y="47" width="368" height="373" as="geometry" />
         </mxCell>
-        <mxCell id="ZjlgmmvDXfDlVqPB2CYz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uRefnjCFfdxg6NVvjbrm-102" target="uRefnjCFfdxg6NVvjbrm-54">
+        <mxCell id="ZjlgmmvDXfDlVqPB2CYz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uRefnjCFfdxg6NVvjbrm-102" target="uRefnjCFfdxg6NVvjbrm-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-102" value="BetaHost&lt;br&gt;Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="935" y="398.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=7;" parent="1" source="uRefnjCFfdxg6NVvjbrm-103" target="uRefnjCFfdxg6NVvjbrm-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="996" y="750" />
+              <mxPoint x="760" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uRefnjCFfdxg6NVvjbrm-104" target="uRefnjCFfdxg6NVvjbrm-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -198,7 +203,7 @@
           <mxGeometry x="1250" y="800" width="610" height="200" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-112" value="API Test Automation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontColor=#000000;" parent="uRefnjCFfdxg6NVvjbrm-121" vertex="1">
-          <mxGeometry x="210" y="20" width="200" height="60" as="geometry" />
+          <mxGeometry x="170" y="20" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-122" value="API Specification Parsing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="uRefnjCFfdxg6NVvjbrm-121" vertex="1">
           <mxGeometry x="29" y="125" width="120" height="60" as="geometry" />
