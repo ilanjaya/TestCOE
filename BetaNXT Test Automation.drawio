@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T06:26:18.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="3SfIJbxWlKmtghFIP5Pv" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T06:31:49.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="g-KECXCDN09uls3poJZU" version="21.5.1" type="github">
   <diagram name="Page-1" id="NDKsp-IjWkwCeQxPeRXT">
     <mxGraphModel dx="3244" dy="1078" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -129,13 +129,13 @@
           <mxGeometry x="1005" y="255" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-92" value="Existing components built in previous recommendations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1259" y="503" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="483" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-93" value="Existing&amp;nbsp; component to be modified" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1259" y="573" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="553" width="298" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-94" value="New component build in this recommendation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1259" y="641" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="621" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="uRefnjCFfdxg6NVvjbrm-97" target="uRefnjCFfdxg6NVvjbrm-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -158,8 +158,8 @@
         <mxCell id="uRefnjCFfdxg6NVvjbrm-99" value="Data Change Event Processing Lambda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="868" y="92" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uRefnjCFfdxg6NVvjbrm-100" value="&lt;h1&gt;Assumptions&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Mainframe Testing focuses on automating the manual testing activities.&lt;/li&gt;&lt;li&gt;API Testing will focus on evaluating all the API end points between mainframe and cloud environments.&lt;/li&gt;&lt;li&gt;End to End Workflow Integration testing will focus on testing the integration of all the components in the system for event driven scenario. This will include the communication flow from mainframes applications to cloud processes including the middleware components like KAFKA and Lambda processes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1248" y="70" width="260" height="421" as="geometry" />
+        <mxCell id="uRefnjCFfdxg6NVvjbrm-100" value="&lt;h1&gt;Explanation&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Unit testing focuses on generating zUnit test cases and execute the same on zOS.&lt;/li&gt;&lt;li&gt;Mainframe Testing focuses on automating the manual testing activities.&lt;/li&gt;&lt;li&gt;API Testing will focus on evaluating all the API end points between mainframe and cloud environments.&lt;/li&gt;&lt;li&gt;End to End Workflow Integration testing will focus on testing the integration of all the components in the system for event driven scenario. This will include the communication flow from mainframes applications to cloud processes including the middleware components like KAFKA and Lambda processes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1133" y="67" width="368" height="354" as="geometry" />
         </mxCell>
         <mxCell id="uRefnjCFfdxg6NVvjbrm-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uRefnjCFfdxg6NVvjbrm-102" target="uRefnjCFfdxg6NVvjbrm-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -265,6 +265,12 @@
         </mxCell>
         <mxCell id="ZjlgmmvDXfDlVqPB2CYz-7" value="" style="swimlane;startSize=0;fillColor=#808080;gradientColor=#808080;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-911" y="820" width="509" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjlgmmvDXfDlVqPB2CYz-16" value="Test Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1153" y="695" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjlgmmvDXfDlVqPB2CYz-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Legend&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="427" width="97" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
